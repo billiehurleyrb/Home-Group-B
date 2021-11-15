@@ -18,5 +18,9 @@ else:
     suffix = suffixes[3]
 
 print(f'The {n}{suffix} Fibonacci number is {fib(n)}')
+<<<<<<< HEAD
 
 print('hello')
+=======
+print('Billie')
+>>>>>>> 5cb27e1a8ff79b2318c2a9c3e48d5621d2eb4472
